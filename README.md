@@ -9,3 +9,5 @@ If you use this code or personalize it etc- please consider sharing it back with
 V1 Using MQ2 Smoke sensor digital output and a DHT 11 Temp sensor to monitor the temp inside the printing chamber
 If the temp gets higher than DHT limit or smoke is triggered the relay will be de-energized shutting off the power to your printer
 NOTE DHT11 only goodf to 50C so use this outside your printer and add a high temp thermistor etc inside the chamber.
+
+
